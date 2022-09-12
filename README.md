@@ -63,18 +63,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][]](https://example.com)
+![image](https://user-images.githubusercontent.com/74638335/189617225-5ed0b448-8b32-48cb-b36d-63f19d2cb33d.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is my Personal Portfolio made using react js, next js, styled-components (react js library), and design part from figma. This webpage contains all of my details you need to know, from project, achievements, experiences and many more. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,9 +78,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Vercel][Vercel.com]][Vercel-url]
+* Styled-Components
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/Anshul_the_soni) 
+Your Name - [@Anshul_the_Soni](https://twitter.com/Anshul_the_soni) 
 
 
 
