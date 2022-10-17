@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   {  text: 'Web developer Intern @Scrobits'},
-  {  text: 'Open Source Contirbutor @Social', },
+  {  text: 'Open Source Contributor @Social', },
   {  text: 'R&D Co-Head @CS-Cult', },
   {  text: 'Executive @Google Developer Students Club', },
   {  text: 'Executive @Code Chef Club', },

@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'API Monitoring',
-    description: " Made this project for Scrobits Technologies, this gives us the idea of the status and life of API's currently in use, made the ui design using figma and started building components usning React js and Tailwind css. First we login to the page and the user info gets stored in the Postman API, I have customized the pop-up of succesfull login from sweetAlert .",
+    description: " Made this project for Scrobits Technologies, this gives us the idea of the status and life of API's currently in use, made the ui design using figma and started building components usning React js and Tailwind css. First we login to the page and the user info gets stored in the Postman API, I have customized the pop-up of successful login from sweetAlert .",
       image: '/images/1.png',
       tags: ['React JS', 'Tailwind', 'Postman', 'Figma'],
     source: 'https://google.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Weather App',
-    description: "Made this weather app using javacsript , html , css ans weather api which fetches data of all the cities from around the globe. You just need to write the name of the city and the app gets the data from online API, and gives us results of all the weather conditions.",
+    description: "Made this weather app using JavaScript , html , css ans weather api which fetches data of all the cities from around the globe. You just need to write the name of the city and the app gets the data from online API, and gives us results of all the weather conditions.",
       image: '/images/3.png',
       tags: ['HTML/CSS/Javascript', 'API'],
     source: 'https://weather-app-black-five.vercel.app/',
