@@ -17,6 +17,17 @@ const Header = () =>  (
 
     <Div2>
       <li>
+        <Link href="#about">
+          <NavLink>About</NavLink>
+        </Link>
+      </li>
+      <li>
+        <Link href="#experience">
+          <NavLink>Experience</NavLink>
+        </Link>
+      </li>
+      
+      <li>
         <Link href="#projects">
           <NavLink>Projects</NavLink>
         </Link>
@@ -27,10 +38,11 @@ const Header = () =>  (
         </Link>
       </li>
       <li>
-        <Link href="#about">
-          <NavLink>About</NavLink>
+        <Link href="#contact">
+          <NavLink>Contact Me</NavLink>
         </Link>
       </li>
+      
     </Div2>
 
     <Div3>
@@ -40,7 +52,7 @@ const Header = () =>  (
       <SocialIcons href="https://www.linkedin.com/in/-anshul-soni/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons href="https://bento.me/anshul-soni">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
