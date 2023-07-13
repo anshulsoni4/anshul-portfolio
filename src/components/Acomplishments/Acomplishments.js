@@ -4,12 +4,12 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  {  text: 'Web developer Intern @Scrobits'},
-  {  text: 'Open Source Contributor @Social', },
-  {  text: 'R&D Co-Head @CS-Cult', },
-  {  text: 'Executive @Google Developer Students Club', },
-  {  text: 'Executive @Code Chef Club', },
-  {  text: 'Executive @Students Technical and Innovation Club', },
+  {  text: 'Intern @47 Billion'},
+  {  text: 'SDE Intern @Medoc Health IT', },
+  {  text: 'Front-End Engineer @Scrobits Technology', },
+  {  text: 'Open Source Contributor @GSSOC', },
+  {  text: 'Open Source Contributor @SSOC', },
+  // {  text: 'Executive @Students Technical and Innovation Club', },
   // {  text: 'Github Stars', },
   // {  text: 'Github Stars', },
 
