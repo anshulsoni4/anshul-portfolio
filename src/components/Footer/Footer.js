@@ -9,11 +9,11 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <br /><br />
-      <SectionTitle>Contact Me :</SectionTitle>
+      <SectionTitle id='contact'>Contact Me :</SectionTitle>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:6265480074">6265480074</LinkItem>
+          <LinkTitle>Links to all socials</LinkTitle>
+          <LinkItem href="https://bento.me/anshul-soni">Bento</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Twitter</LinkTitle>
@@ -31,7 +31,7 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Lets catch up for a coffee :)<br />
             <br />
-            Ask me about - Web development , Current Affairs , Movies , Games , Tech Talks , Hackathons / Events , Computer Science subjects.</Slogan>
+            Ask me about - Products, Design, Development, Debugging, and Building Stuff</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/anshulsoni4">
@@ -40,7 +40,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/-anshul-soni/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com/">
+          <SocialIcons href="https://bento.me/anshul-soni">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
