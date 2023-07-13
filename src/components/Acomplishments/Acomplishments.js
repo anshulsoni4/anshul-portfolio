@@ -9,7 +9,7 @@ const data = [
   {  text: 'Front-End Engineer @Scrobits Technology', },
   {  text: 'Open Source Contributor @GSSOC', },
   {  text: 'Open Source Contributor @SSOC', },
-  // {  text: 'Executive @Students Technical and Innovation Club', },
+  {  text: 'Executive @Google developer Students Club', },
   // {  text: 'Github Stars', },
   // {  text: 'Github Stars', },
 
@@ -17,9 +17,9 @@ const data = [
 ];
 
 const Acomplishments = () => (
-  <Section>
+  <Section id='experience'>
     <br /><br />
-    <SectionTitle>Personal Achievements :</SectionTitle>
+    <SectionTitle>Professional Experience :</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
