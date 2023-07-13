@@ -12,9 +12,9 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      Anshul Soni this side , <b> Making Ideas Happen ! </b>
+      Hey 👋 Anshul here, <b> I love to build, contribute, and design stuff</b>
       </SectionText>
-      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1btdFIYGSX9S_7kviH1uZqYTHuXaqN5Fu/view?usp=sharing'}>View my Resume</Button>
+      <Button onClick={() => window.location = 'https://flowcv.com/resume/1eeisod6l5'}>View my Resume</Button>
     </LeftSection>
   </Section>
 );
