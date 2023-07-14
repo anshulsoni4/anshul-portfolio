@@ -53,6 +53,8 @@ export const Div3 = styled.div`
 // Navigation Links
 export const NavLink = styled.a`
   font-size: 2rem;
+  padding: 4px; 
+  gap: 2;
   line-height: 32px;
   color: rgba(255, 255, 255, 0.75);
   transition: 0.4s ease;
